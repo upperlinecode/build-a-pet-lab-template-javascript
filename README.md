@@ -2,7 +2,7 @@
 
 ## Intro
 
-<iframe src="https://giphy.com/embed/3oz8xHsoGJwIzvSNGM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Bun](https://giphy.com/embed/3oz8xHsoGJwIzvSNGM)
 
 Congratulations! You've just adopted a brand new bunny!
 
@@ -22,4 +22,4 @@ Once that's working, you have so many ways to make this project really cool! Her
 * Make the animal's number of preferred pats random each time the page is loaded.
 * Make several different levels of anger - and progress through them as you pet the animal more and more.
 * Make the message slightly more responsive - maybe a warning when you start getting close to too many pats.
-* Make other buttons like "feed" and "play" and have the image change to a super happy pet if you take perfect care of your pet. 
+* Make other buttons like "feed" and "play" and have the image change to a super happy pet if you take perfect care of your pet.
