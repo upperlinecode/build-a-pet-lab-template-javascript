@@ -2,7 +2,7 @@
 
 ## Intro
 
-![Bun](https://giphy.com/embed/3oz8xHsoGJwIzvSNGM)
+![Bun](https://media.giphy.com/media/3oz8xHsoGJwIzvSNGM/giphy.gif)
 
 Congratulations! You've just adopted a brand new bunny!
 
