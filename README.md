@@ -1,5 +1,7 @@
 # Build A Pet
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/build-a-pet-lab-template-javascript)](https://repl.it/github/upperlinecode/build-a-pet-lab-template-javascript)
+
 ## Intro
 
 ![Bun](https://media.giphy.com/media/3oz8xHsoGJwIzvSNGM/giphy.gif)
